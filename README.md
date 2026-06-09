@@ -49,4 +49,3 @@ Ryujinx Emulator is a highly optimized open-source Nintendo Switch emulator. It 
 * Ryujinx Windows 11
 * Ryujinx Vulkan
 * Switch Emulator 2026
-* Ryujinx FPS Boost
